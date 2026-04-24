@@ -21,8 +21,8 @@
         </Canvas>
         <Button x:Name="startBtn" Click="BtnStart_Click"  Content="Start" HorizontalAlignment="Left" Height="80" Margin="30,475,0,0" VerticalAlignment="Top" Width="190" Background="#FF38C6ED" FontSize="30" FontFamily="Comic Sans MS"/>
         <Button x:Name="stopBtn" Click="StopBtn_Click"   Content="Stop"  HorizontalAlignment="Left" Height="80" Margin="295,475,0,0" VerticalAlignment="Top" Width="190"  Background="#FF38C6ED" FontSize="30" FontFamily="Comic Sans MS"/>
-        <Button x:Name="addBallBtn" Click="AddBallBtn_Click"   Content="Dodaj piłeczkę"  HorizontalAlignment="Left" Height="80" Margin="665,475,0,0" VerticalAlignment="Top" Width="235"  Background="#FF38C6ED" FontSize="30" FontFamily="Comic Sans MS"/>
-        <Button x:Name="deleteBallBtn" Click="DeleteBallBtn_Click"   Content="Usuń piłeczkę"  HorizontalAlignment="Left" Height="80" Margin="943,475,0,0" VerticalAlignment="Top" Width="235"  Background="#FF38C6ED" FontSize="30" FontFamily="Comic Sans MS"/>
+        <Button x:Name="addBallBtn" Click="AddBallBtn_Click"   Content="Add ball"  HorizontalAlignment="Left" Height="80" Margin="665,475,0,0" VerticalAlignment="Top" Width="235"  Background="#FF38C6ED" FontSize="30" FontFamily="Comic Sans MS"/>
+        <Button x:Name="deleteBallBtn" Click="DeleteBallBtn_Click"   Content="Delete ball"  HorizontalAlignment="Left" Height="80" Margin="943,475,0,0" VerticalAlignment="Top" Width="235"  Background="#FF38C6ED" FontSize="30" FontFamily="Comic Sans MS"/>
 
     </Grid>
 </Window>
